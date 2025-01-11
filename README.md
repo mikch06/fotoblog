@@ -1,0 +1,2 @@
+# fotoblog
+fotoblog with hugo
