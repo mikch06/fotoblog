@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.org/</loc>
+<<<<<<< HEAD
     <lastmod>2025-01-11T16:35:53+00:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/my-first-post/</loc>
@@ -10,6 +11,15 @@
   </url><url>
     <loc>https://example.org/posts/</loc>
     <lastmod>2025-01-11T16:02:03+00:00</lastmod>
+=======
+    <lastmod>2025-01-12T16:43:22+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/myfirst-page/</loc>
+    <lastmod>2025-01-12T16:43:22+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2025-01-12T16:43:22+01:00</lastmod>
+>>>>>>> 663e8d88dc7920447c3e1fac01c250874dd53ac2
   </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
