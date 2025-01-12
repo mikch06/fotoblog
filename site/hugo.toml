@@ -3,3 +3,20 @@ languageCode = 'en-us'
 title = 'PictureBlog'
 theme = 'terminal'
 
+[languages]
+  [languages.en]
+    languageName = "English"
+
+    [languages.en.params]
+      subtitle = "A simple, retro theme for Hugo"
+
+
+      [languages.en.params.logo]
+        logoText = "PictureBlog"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"      
