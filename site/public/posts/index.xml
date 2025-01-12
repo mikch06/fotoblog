@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Posts on PictureBlog</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on PictureBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2025 16:02:03 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jan 2025 16:43:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfirst Page</title>
+      <link>http://localhost:1313/posts/myfirst-page/</link>
+      <pubDate>Sun, 12 Jan 2025 16:43:22 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/myfirst-page/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
+      <content>&lt;p&gt;Hello World!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 11 Jan 2025 16:02:03 +0000</pubDate>
       
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description></description>
       <content></content>
     </item>
     
-=======
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2025 16:43:22 +0100</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Myfirst Page</title>
-      <link>https://example.org/posts/myfirst-page/</link>
-      <pubDate>Sun, 12 Jan 2025 16:43:22 +0100</pubDate>
-      <guid>https://example.org/posts/myfirst-page/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
-    </item>
->>>>>>> 663e8d88dc7920447c3e1fac01c250874dd53ac2
   </channel>
 </rss>

@@ -2,27 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
-<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/myfirst-page/</loc>
+    <lastmod>2025-01-12T16:43:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-12T16:43:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-11T16:35:53+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2025-01-11T16:02:03+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2025-01-11T16:02:03+00:00</lastmod>
-=======
-    <lastmod>2025-01-12T16:43:22+01:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://example.org/posts/myfirst-page/</loc>
-    <lastmod>2025-01-12T16:43:22+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2025-01-12T16:43:22+01:00</lastmod>
->>>>>>> 663e8d88dc7920447c3e1fac01c250874dd53ac2
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
