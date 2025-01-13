@@ -3,5 +3,4 @@ date: '{{ .Date }}'
 draft: false
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 ---
-
-Image-URL
+![](images/container-monitoring.png "TITEL")
