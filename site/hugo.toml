@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kissel.ch/pics'
 languageCode = 'en-us'
 title = 'PictureBlog'
-theme = 'terminal'
+theme = 'gallery'
 
 [languages]
   [languages.en]
