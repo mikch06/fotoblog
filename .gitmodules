@@ -7,3 +7,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "site/themes/gallery"]
+	path = site/themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
